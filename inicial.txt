@@ -1,1 +1,2 @@
 1 - lvicente - me creo que fichero al abrir el repositorio
+2 . lavp99   - en otra rama modificamos el fichero
